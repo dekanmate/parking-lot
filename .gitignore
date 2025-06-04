@@ -26,5 +26,5 @@ replay_pid*
 # Testing
 
 *.cmd
-*.StructureTest.java
-*.Suite.java
+*StructureTest.java
+*Suite.java
